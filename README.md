@@ -1,1 +1,1 @@
-# blog-desgin
+# blog-design
