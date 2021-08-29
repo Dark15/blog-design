@@ -1,0 +1,64 @@
+创建的报告: 
+	2021/8/29	下午 8:16:34
+
+项目名: 首页动画.aep
+
+将源文件收集到: 
+	F:\html\Dark15\blog-design\首页动画文件夹
+
+收集的源文件: 全部
+
+收集的合成: 
+	首页 – 2
+	wallhaven-rdylgq_waifu2x_art_noise3_scale_tta_1
+	图片1
+	%T@_S7FV51UC8NR5ZVF4D$H
+	wallhaven-rddgwm_2560x1440
+	组件 2
+	组件 3
+	组件 3
+	忍住
+	1_XPH](@(KPV@7HRT9`5T]6
+	蒙版组 2
+	蒙版组 5
+	蒙版组 3
+	蒙版组 4
+	组件 3
+	文章 – 1
+	Comp 1
+	
+收集的文件数: 11
+
+收集的文件大小: 13.2 MB
+
+收集的源文件: 
+	F:\AE动画缓存\首页动画\starryblog-1\image.5c5d4f380830c32ce214e575207aeb74.png
+	F:\AE动画缓存\首页动画\starryblog-1\image2.97a27c7a0d6de1b335e0f3ca3e2c0982.png
+	F:\AE动画缓存\首页动画\starryblog-1\image3.844b619461e72a8fce5be862c7786041.jpg
+	F:\AE动画缓存\首页动画\starryblog-1\image4.614d56461e600110672339429d5635e4.jpg
+	F:\AE动画缓存\首页动画\starryblog-1\image5.d1612cf1c11bc6a2aad53edf8be7ee32.png
+	F:\AE动画缓存\首页动画\starryblog-1\image6.b6ecc82c2b1fe04d60401da0de31666d.jpg
+	F:\AE动画缓存\首页动画\starryblog-1\image7.ccb72707b75af51a0448e15ef08ca29e.png
+	F:\AE动画缓存\首页动画\starryblog-2\image.5c5d4f380830c32ce214e575207aeb74.png
+	F:\AE动画缓存\首页动画\starryblog-2\image2.b6ecc82c2b1fe04d60401da0de31666d.jpg
+	F:\AE动画缓存\首页动画\starryblog\image.5c5d4f380830c32ce214e575207aeb74.png
+	F:\AE动画缓存\首页动画\starryblog\image2.b6ecc82c2b1fe04d60401da0de31666d.jpg
+	
+渲染增效工具:
+	经典 3D
+	
+使用的效果: 4
+
+效果: 快速方框模糊
+	
+效果: 亮度和对比度
+	
+效果: 描边
+	
+效果: 投影
+	
+
+图层: 文本图层
+	外部依存关系: 
+		字体系列:“HarmonyOS Sans SC”，字体样式:“Medium”
+
